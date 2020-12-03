@@ -1,0 +1,29 @@
+{
+  "name": "spacex",
+  "version": "0.1.0",
+  "private": true,
+  "description": "SpaceX launch programs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LouhanParitosh/space-xprogram"
+  },
+  "contributors": [
+    {
+      "name": "Paritosh Louhan",
+      "email": "paaritoshh@gmail.com"
+    }
+  ],
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start -p $PORT",
+    "heroku-postbuild": "npm run build"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "next": "10.0.3",
+    "react": "17.0.1",
+    "react-bootstrap": "^1.4.0",
+    "react-dom": "17.0.1"
+  }
+}

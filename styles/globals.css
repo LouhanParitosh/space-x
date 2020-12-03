@@ -1,0 +1,209 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+    overflow: auto;
+    min-height:100%;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.App{
+  background-color: lightgrey;
+  border-radius:2px;
+  padding: 5px;
+  width: 100%;
+  overflow: hidden;
+}
+
+.filter-container {
+  margin-left: 20px;
+  background-color: white;
+  border-radius: 4px;
+  width: 235px;
+  padding:5px;
+  display: inline-block;
+  float: left;
+}
+
+.launch-year, .launch, .landing {
+  width: 74px;
+  float: left;
+  margin:0 0 14px 32px;
+}
+
+button {
+  background-color: lightgreen;
+  border:none;
+  border-radius: 2px;
+  width: 51px;
+  height: 27px;
+  font-size: 13px;
+  cursor: pointer;
+}
+
+h3 {
+text-align: left;
+} 
+
+h4 {
+  text-align: center;
+}
+
+
+.no-data {
+  text-align: center;
+}
+
+.filter-count {
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 10px;
+  display: inline-block;
+}
+
+.mission-container {
+  display: inline-block;
+  width: 80%;
+  height: 630px;
+  margin-left: 30px;
+}
+
+.mission {
+  display: inline-block;
+  width: 235px;
+  height: 433px;
+  background-color: white;
+  border-radius: 4px;
+  margin: 5px 5px 5px 20px;
+}
+
+button[class^="selected"] {
+  background-color: darkseagreen;
+}
+
+.filter-container-heading {
+    width: 35%;
+    display: inline-block;
+    margin: 10px 0 10px 0;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.refresh-all {
+    width: 62%;
+    cursor: pointer;
+    display: inline-block;
+    margin:10px 0 22px 0;
+    font-size: 15px;
+    font-weight: bold;
+    color: blue;
+    text-decoration: underline;
+    text-align: right;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  margin: 20px 30px 16px 17px;
+  background-color: lightgrey;
+  border-radius: 2px;
+}
+
+.mission-name {
+  width: 206px;
+  font-weight: bold;
+  color:navy;
+  margin: 0 0 8px 20px;
+  overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap; 
+}
+
+.text {
+  display: inline-block;
+  width: 43%;
+  margin-left: 20px;
+  font-weight: bold;
+}
+
+.value {
+  width: 40%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  display: inline-flex;
+}
+
+h2 {
+  bottom: 0;
+  text-align: center;
+}
+
+.heading {
+  display: block;
+  text-align: center;
+  margin: -10px 0 5px 0px;
+  font-weight: bold;
+}
+
+@media only screen and (max-width: 800px) {
+  .mission-container {
+    width: 30%;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  .mission-container {
+    width: 30%;
+  }
+
+  .filter-container {
+    margin-left: 52px;
+  }
+}
+
+
+@media only screen and (max-width: 1024px) and (min-width: 700px) {
+  .mission-container {
+    width: 60%;
+    margin-left: 0px;
+  }
+  .filter-container {
+    margin-left: 0px;
+  }
+}
+
+@media only screen and (max-width: 1240px) and (min-width: 1024px) {
+  .mission-container {
+    width: 65%;
+  }
+}
+
+@media only screen and (max-width: 1460px) and (min-width: 1244px) {
+  .mission-container {
+    width: 76%;
+  }
+}
+
+
+
+header {
+    font-size: 26px;
+    font-weight: bold;
+    margin: 10px;
+}
+
+footer {
+  text-align: center;
+  font-size: 20px;
+}

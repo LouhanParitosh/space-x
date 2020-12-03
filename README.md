@@ -25,7 +25,7 @@ Developed a front-end application which would help users list and browse all lau
 
 **Github repo**
 
-https://github.com/LouhanParitosh/space-xprogram
+https://github.com/LouhanParitosh/space-x
 
 
 **Lighthouse Score**

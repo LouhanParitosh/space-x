@@ -175,7 +175,7 @@ h2 {
 
 @media only screen and (max-width: 1024px) and (min-width: 700px) {
   .mission-container {
-    width: 60%;
+    width: 69%;
     margin-left: 0px;
   }
   .filter-container {
@@ -185,7 +185,7 @@ h2 {
 
 @media only screen and (max-width: 1240px) and (min-width: 1024px) {
   .mission-container {
-    width: 65%;
+    width: 70%;
   }
 }
 

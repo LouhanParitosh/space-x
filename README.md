@@ -39,9 +39,6 @@ https://github.com/LouhanParitosh/space-xprogram
 ### Desktop View
 ![Image](https://github.com/LouhanParitosh/space-x/blob/master/images/image%201.PNG)
 
-### iPad Landscape View
-![ipad landscape view](https://github.com/LouhanParitosh/space-x/blob/master/images/ipad%20landscape.PNG "ipad view landscape")
-
 ### iPad Portrait View
 ![ipad portrait view](https://github.com/LouhanParitosh/space-x/blob/master/images/ipad%20portrait.PNG "ipad view portrait")
 

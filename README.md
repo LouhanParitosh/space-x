@@ -37,19 +37,19 @@ https://github.com/LouhanParitosh/space-xprogram
 ## UI implementation
 
 ### Desktop View
-![Image](https://github.com/LouhanParitosh/space-xprogram/blob/main/images/image%201.PNG)
+![Image](https://github.com/LouhanParitosh/space-x/blob/master/images/image%201.PNG)
 
 ### iPad Landscape View
-![ipad landscape view](https://github.com/LouhanParitosh/space-xprogram/blob/main/images/ipad%20landscape.PNG "ipad view landscape")
+![ipad landscape view](https://github.com/LouhanParitosh/space-x/blob/master/images/ipad%20landscape.PNG "ipad view landscape")
 
 ### iPad Portrait View
-![ipad portrait view](https://github.com/LouhanParitosh/space-xprogram/blob/main/images/ipad%20portrait.PNG "ipad view portrait")
+![ipad portrait view](https://github.com/LouhanParitosh/space-x/blob/master/images/ipad%20portrait.PNG "ipad view portrait")
 
 ### Mobile View
-![Mobile view](https://github.com/LouhanParitosh/space-xprogram/blob/main/images/iphone%20rendering.PNG "Mobile view")
+![Mobile view](https://github.com/LouhanParitosh/space-x/blob/master/images/iphone%20rendering.PNG "Mobile view")
 
 ### Lighthouse score
-![Lighthouse score](https://github.com/LouhanParitosh/space-xprogram/blob/main/images/lighthouse-score.PNG "Lighthouse score")
+![Lighthouse score](https://github.com/LouhanParitosh/space-x/blob/master/images/lighthouse-score.PNG "Lighthouse score")
 
 
 

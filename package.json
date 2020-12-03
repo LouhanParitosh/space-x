@@ -5,7 +5,7 @@
   "description": "SpaceX launch programs",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LouhanParitosh/space-xprogram"
+    "url": "git+https://github.com/LouhanParitosh/space-x.git"
   },
   "contributors": [
     {
